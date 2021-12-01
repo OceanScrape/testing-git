@@ -3,4 +3,5 @@
 - Tembus kerja remote
   - Beli yang diinginkan
   - Ingin mandiri
+- Belajar Frontend
 - Belajar Selenium
