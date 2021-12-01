@@ -4,4 +4,6 @@
   - Beli yang diinginkan
   - Ingin mandiri
 - Belajar Frontend
+  - Belajar React
+  - Belajar Vue
 - Belajar Selenium
