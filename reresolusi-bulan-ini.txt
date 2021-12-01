@@ -1,3 +1,4 @@
 - Belajar python
 - Belajar OOP python
+- Belajar framework Python
 - Belajar Web Scraping 
