@@ -1,0 +1,4 @@
+- Mastering Beautifulsoup
+- Belajar Scrapy
+- Tembus kerja remote
+- Belajar Selenium
